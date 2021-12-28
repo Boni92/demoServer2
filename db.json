@@ -1,9 +1,6 @@
 {
-    "pedidos":
-    { "nombre": "Lucia", "celular": 1565893147,"direccion":"Amadeo Ut","pago":"efectivo" },
-    { "nombre": "Victor", "celular": "01196863256","direccion":"Quique Adolfo 9964","pago":"mercado pago" },
-    { "nombre": "Juan", "celular": "1578984565","direccion":"Martín Salinas 12","pago":"efectivo" },
-    { "nombre": "Carlos", "celular": "47661824","direccion":"Av. San juan 6314","pago":"efectivo" },
-    { "nombre": "Marcela", "celular": "46259134","direccion":"Libertador 4513","pago":"efectivo" },
-  
+    "pedidos":[ 
+    { "nombre": "Lucia", "pago":"efectivo" },
+
+  ]
 }
