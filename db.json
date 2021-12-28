@@ -1,9 +1,10 @@
 {
     "pedidos":[ 
-    { "nombre": "Lucia", "pago":"efectivo" },
-    { "nombre": "Lucia", "pago":"efectivo" },
-
-        
+    { "nombre": "Lucia","direccion": "Azcuenaga 1225", "celular":"01145638455", "pago":"efectivo" },
+    { "nombre": "Marta","direccion": "Belgrano 1215", "celular":"01149315455", "pago":"mercado pago" },
+    { "nombre": "Carlos","direccion": "Ruiz 12", "celular":"01145638478", "pago":"efectivo" },
+    { "nombre": "Victor","direccion": "Libertador 1125", "celular":"01148841455", "pago":"mercado pago" },
+    { "nombre": "María","direccion": "Cabildo 175", "celular":"01145963455", "pago":"efectivo" },        
 
   ]
 }
