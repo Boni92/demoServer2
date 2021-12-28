@@ -1,6 +1,9 @@
 {
     "pedidos":[ 
     { "nombre": "Lucia", "pago":"efectivo" },
+    { "nombre": "Lucia", "pago":"efectivo" },
+
+        
 
   ]
 }
