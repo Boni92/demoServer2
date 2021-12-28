@@ -1,6 +1,5 @@
 {
-    "pedidos":[
+    "pedidos":
     { "nombre": "Lucia", "celular": 1565893147,"direccion":"Amadeo Ut","pago":"efectivo" },
-
-  ]
+  
 }
